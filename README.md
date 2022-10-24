@@ -11,7 +11,8 @@ Cross-lingual learning is a form of transfer learning, and refers to methods whi
 \
 **Prerequisites:** Background in natural language processing and deep learning is required.\
 \
-**Topics and papers to be discussed:**
+**Topics and papers to be discussed:**\
+\
 | **Topic**  | **Readings** |
 
 | ------------- | ------------- |
