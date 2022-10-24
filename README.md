@@ -1,1 +1,5 @@
-# WS22_cll
+# Cross-lingual learning
+
+Cross-lingual learning
+Syllabus
+WS 22/23
