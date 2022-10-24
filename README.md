@@ -13,6 +13,7 @@ Cross-lingual learning is a form of transfer learning, and refers to methods whi
 \
 **Topics and papers to be discussed:**\
 \
+
 | **Topic**  | **Readings** |
 
 | ------------- | ------------- |
