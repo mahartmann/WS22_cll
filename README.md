@@ -12,11 +12,8 @@ Cross-lingual learning is a form of transfer learning, and refers to methods whi
 **Prerequisites:** Background in natural language processing and deep learning is required.\
 \
 **Topics and papers to be discussed:**\
-\
 
 | **Topic**  | **Readings** |
-
-| ------------- | ------------- |
 
 | Multilingual word embeddings  | Mikolov et al. (2013b): [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf) <br /> Faruqui and Dyer (2014b): [Improving Vector Space Word Representations Using Multilingual Correlation](https://aclanthology.org/E14-1049.pdf) <br /> Mrkšić et al. (2017): [Semantic Specialization of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints](https://aclanthology.org/Q17-1022.pdf) <br /> <br /> **Additional background material:** <br /> Ruder et al. (2019): [A Survey of Cross-lingual Word Embedding Models](https://jair.org/index.php/jair/article/view/11640/26511)|
 
