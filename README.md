@@ -5,8 +5,10 @@
 
 Instructor: Mareike Hartmann (mareikeh@lst.uni-saarland.de) \
 Meetings: Thursdays 14:15 - 15:45, C7.1 Room U15 \
-Office Hours: by appointment \
-\
+Office Hours: by appointment 
+
+***Please sign up for the [MS team](https://teams.microsoft.com/l/team/19%3aPkPxfQc7sHJGtFlTVwLrU3cPo1aSbeXvbpDS2QGK8Vk1%40thread.tacv2/conversations?groupId=f339f9b1-ea7b-44b1-ae37-bfb2aeeb7a55&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f)***
+
 Cross-lingual learning is a form of transfer learning, and refers to methods which learn from a task in one language and transfer this knowledge to a task in another language, which is particularly helpful to solve tasks in languages with few training resources. In this seminar, we will discuss different methods for cross-lingual learning, focusing on transfer via multilingual word embeddings and pre-trained multilingual language models, and cover recent applications for cross-lingual transfer.\
 \
 **Prerequisites:** Background in natural language processing and deep learning is required.\
